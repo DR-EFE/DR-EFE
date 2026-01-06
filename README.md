@@ -7,10 +7,10 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiando Ingeniería en Informática
-- 💻 Desarrollador Backend apasionado de México
-- 🌱 Actualmente aprendiendo **Python, Ciencia de Datos, OCI y Oracle Analytics - ONE**
-- 🚀 Buscando colaborar en proyectos de código abierto
-- 💡 Me interesa el desarrollo de software, bases de datos y la inteligencia artificial
+- 💻 Desarrollador Full Stack apasionado de México
+- 🌱 Especializándome en React y React Native para desarrollo web y móvil
+- 🚀 Actualmente aprendiendo React Native, TypeScript, Node.js y Python
+- 💡 Me interesa el desarrollo de aplicaciones modernas, tanto web como móviles
 
 ## 🛠️ Tecnologías y Herramientas
 
