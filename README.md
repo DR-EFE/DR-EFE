@@ -1,92 +1,79 @@
-# <div align="center">¡Hola, soy Felipe! 👋</div>
+# <div align="center">FELIPE RAMOS</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Estudiante+de+Ingeniería+en+Informática;Desarrollador+Backend+Apasionado;Entusiasta+de+la+Ciencia+de+Datos" alt="Typing SVG" />
-</div>
-
-## 👨‍💻 Sobre mí
-
-- 🎓 Estudiando Ingeniería en Informática
-- 💻 Desarrollador Full Stack apasionado de México
-- 🌱 Especializándome en React y React Native para desarrollo web y móvil
-- 🚀 Actualmente aprendiendo React Native, TypeScript, Node.js y Python
-- 💡 Me interesa el desarrollo de aplicaciones modernas, tanto web como móviles
-
-## 🛠️ Tecnologías y Herramientas
-
-<div align="center">
-  
-### Lenguajes de Programación
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### Desarrollo Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Frameworks y Herramientas
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### IDEs y Entornos
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### Sistemas Operativos
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</div>
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DR-EFE&theme=tokyonight&hide_border=true" alt="Estadísticas de racha" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-EFE&theme=tokyonight&hide_border=true&layout=compact" alt="Lenguajes más usados" width="44%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+Student;Mobile+Developer+Specialist;React+Native+%2B+Expo+Go+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DR-EFE&theme=tokyonight&no-frame=true&column=7&row=1&margin-w=10" alt="Trofeos" width="100%" />
-</div>
-
-## 🚀 Proyectos destacados
-
-<!-- Aquí puedes agregar tus proyectos cuando los tengas -->
-<div align="center">
-  <i>¡Próximamente algunos proyectos interesantes! Estoy trabajando en ellos...</i>
-</div>
-
-## 📫 Conecta conmigo
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-ramos-098301249/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dr.efeee/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/drefeee/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DR-EFE)
-
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,firebase" />
 </div>
 
 ---
 
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" /> Perfil Profesional
+
+Estudiante de Ingeniería en Informática enfocado en el desarrollo de soluciones multiplataforma. Mi especialización principal es el ecosistema de **React**, donde diseño y despliego aplicaciones móviles utilizando **Expo Go** para flujos de trabajo ágiles y **React Native** para un rendimiento nativo optimizado.
+
+* **Enfoque:** Arquitectura de aplicaciones móviles y desarrollo Full Stack.
+* **Stack Principal:** React Native, Expo, TypeScript, Node.js.
+* **Ubicación:** México.
+
+---
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" /> Tecnologías de Especialización
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo_Go-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+#### Desarrollo Frontend y Móvil
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+
+#### Desarrollo Backend y Bases de Datos
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+
+#### Entornos y Herramientas
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+
+---
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="20" height="20" /> Actividad y Rendimiento
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DR-EFE&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DR-EFE&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="GitHub Stats" height="180px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-EFE&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB" alt="Top Languages" height="180px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DR-EFE&theme=tokyonight&hide_border=true&stroke=61DAFB&ring=61DAFB&fire=61DAFB" alt="GitHub Streak" width="100%" />
+</div>
+
+---
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="20" height="20" /> Contacto y Redes
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-ramos-098301249/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/dr.efeee/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/DR-EFE">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
-  
-  **"El código es como el humor. Cuando tienes que explicarlo, es malo." — Cory House**
-  
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=DR-EFE&label=VISTAS&color=61DAFB&style=flat-square" alt="Visitas" />
+  <br />
+  <code>"Excellent code is self-documenting."</code>
 </div>
