@@ -37,25 +37,10 @@ Estudiante de Ingeniería en Informática enfocado en el desarrollo de solucione
 #### Entornos y Herramientas
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 
----
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="20" height="20" /> Actividad y Rendimiento
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DR-EFE&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB" alt="GitHub Stats" height="180px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DR-EFE&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB" alt="Top Languages" height="180px" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DR-EFE&theme=tokyonight&hide_border=true&stroke=61DAFB&ring=61DAFB&fire=61DAFB" alt="GitHub Streak" width="100%" />
-</div>
 
----
+
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="20" height="20" /> Contacto y Redes
 
