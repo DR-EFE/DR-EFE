@@ -1,7 +1,7 @@
 # <div align="center">FELIPE RAMOS</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+Student;Mobile+Developer+Specialist;React+Native+%2B+Expo+Go+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Mobile+Developer+Specialist;React+Native+%2B+Expo+Go+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,10 +12,10 @@
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" /> Perfil Profesional
 
-Estudiante de Ingeniería en Informática enfocado en el desarrollo de soluciones multiplataforma. Mi especialización principal es el ecosistema de **React**, donde diseño y despliego aplicaciones móviles utilizando **Expo Go** para flujos de trabajo ágiles y **React Native** para un rendimiento nativo optimizado.
+Ingeniero en Informática con experiencia en el desarrollo de soluciones multiplataforma y aplicaciones empresariales. Mi trabajo reciente se ha centrado en el ecosistema **Java** con **Spring Boot** para el desarrollo backend, combinado con **React** para interfaces de usuario dinámicas y **React Native** para aplicaciones móviles.
 
-* **Enfoque:** Arquitectura de aplicaciones móviles y desarrollo Web.
-* **Stack Principal:** React Native, Expo, TypeScript, Node.js.
+* **Enfoque:** Desarrollo Full-Stack, arquitectura de aplicaciones empresariales y soluciones multiplataforma.
+* **Stack Principal:** Java, Spring Boot, React, React Native, TypeScript, Node.js.
 * **Ubicación:** México.
 
 ---
@@ -32,7 +32,7 @@ Estudiante de Ingeniería en Informática enfocado en el desarrollo de solucione
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 
 #### Desarrollo Backend y Bases de Datos
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/java-007396?style=flat&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
 
 #### Entornos y Herramientas
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
